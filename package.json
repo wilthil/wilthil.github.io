@@ -1,0 +1,36 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "foundation-sites": "^6.2.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-bower": "0.0.13",
+    "gulp-cache": "~0.1.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jshint": "~1.3.4",
+    "gulp-livereload": "~0.3.2",
+    "gulp-load-plugins": "~0.2.0",
+    "gulp-minify-css": "~0.2.0",
+    "gulp-notify": "~0.4.0",
+    "gulp-php-minify": "^0.1.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "~0.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-ruby-sass": "~0.3.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint-stylish": "^2.2.1",
+    "tiny-lr": "0.0.5"
+  }
+}

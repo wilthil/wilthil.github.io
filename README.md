@@ -1,0 +1,2 @@
+## Readme
+# siteman-starter-theme
